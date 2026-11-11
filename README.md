@@ -16,9 +16,41 @@
 Сдержанная палитра, один акцентный цвет, traffic lights, сайдбар, карточки с мягкими
 тенями, анимированные микро-взаимодействия.
 
+#### Обзор
+
 | Light | Dark |
 | --- | --- |
 | <img src="pyqt6-macos-ui/assets/screenshots/overview_light.png" width="460"> | <img src="pyqt6-macos-ui/assets/screenshots/overview_dark.png" width="460"> |
+
+#### Задачи
+
+| Light | Dark |
+| --- | --- |
+| <img src="pyqt6-macos-ui/assets/screenshots/tasks_light.png" width="460"> | <img src="pyqt6-macos-ui/assets/screenshots/tasks_dark.png" width="460"> |
+
+#### Ввод
+
+| Light | Dark |
+| --- | --- |
+| <img src="pyqt6-macos-ui/assets/screenshots/inputs_light.png" width="460"> | <img src="pyqt6-macos-ui/assets/screenshots/inputs_dark.png" width="460"> |
+
+#### Чат
+
+| Light | Dark |
+| --- | --- |
+| <img src="pyqt6-macos-ui/assets/screenshots/chat_light.png" width="460"> | <img src="pyqt6-macos-ui/assets/screenshots/chat_dark.png" width="460"> |
+
+#### Файлы
+
+| Light | Dark |
+| --- | --- |
+| <img src="pyqt6-macos-ui/assets/screenshots/files_light.png" width="460"> | <img src="pyqt6-macos-ui/assets/screenshots/files_dark.png" width="460"> |
+
+#### Настройки
+
+| Light | Dark |
+| --- | --- |
+| <img src="pyqt6-macos-ui/assets/screenshots/settings_light.png" width="460"> | <img src="pyqt6-macos-ui/assets/screenshots/settings_dark.png" width="460"> |
 
 ### Material Design 3 — `pyqt6-md3-ui`
 
